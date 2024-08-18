@@ -1,0 +1,3 @@
+4f8811fe069f012b1e4956f4fa78d81dc3edafc431f55022b939709eaffa5d68  neo-one-csharp-osx-v2.0.3/neo-one-csharp
+a14835375d61d7339726c1bdf38be2dc5885472054269bcde65edfd096ae8305  neo-one-csharp-linux-v2.0.3/neo-one-csharp
+4815063eed3ac199fc558f95060f962318ace530c0d1061f6ab887c203db1c53  neo-one-csharp-win-v2.0.3/neo-one-csharp.exe

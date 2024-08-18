@@ -1,0 +1,49 @@
+{
+  "name": "@neo-one/csharp",
+  "neonVersion": "2.0.3",
+  "version": "0.0.1",
+  "keywords": [
+    "neo",
+    "NEO",
+    "one",
+    "ONE",
+    "blockchain",
+    "neo-one",
+    "neo-one-suite",
+    "neo one",
+    "neo one suite",
+    "NEO ONE",
+    "NEO ONE suite",
+    "NEO•ONE",
+    "NEO•ONE suite",
+    "neo blockchain",
+    "NEO Blockchain",
+    "NEO blockchain",
+    "cli",
+    "dapp",
+    "dapps",
+    "csharp",
+    "neo-csharp",
+    "neo csharp"
+  ],
+  "bin": {
+    "neo-one-csharp": "cli.js"
+  },
+  "files": [
+    "neo-one-csharp-linux64-v*/neo-one-csharp",
+    "neo-one-csharp-osx-v*/neo-one-csharp",
+    "neo-one-csharp-win64-v*/neo-one-csharp.exe",
+    "vendor",
+    "cli.js",
+    "index.js",
+    "SHASUM256.txt"
+  ],
+  "description": "NEO•ONE neo-compiler neon C# distributed as a cross-platform npm package.",
+  "repository": "https://github.com/neo-one-suite/neo-one-csharp",
+  "bugs": "https://github.com/neo-one-suite/neo-one-csharp/issues",
+  "license": "MIT",
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
